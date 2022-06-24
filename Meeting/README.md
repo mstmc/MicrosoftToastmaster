@@ -7,6 +7,7 @@ Our weekly meeting is in Wed at Build 1, Microsoft Beijing Building
 
 
 
+
 # 2022/06/15 - Summer
 
 
