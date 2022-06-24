@@ -1,3 +1,9 @@
-1st meeting
+# Welcome to Microsoft Toastmaster
 
-2nd meeting
+Our weekly meeting is in Wed at Build 1, Microsoft Beijing Building
+
+# 2022/06/22 - 704 meeting - Our Moodsters
+
+
+
+
