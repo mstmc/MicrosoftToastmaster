@@ -7,5 +7,5 @@ Our WeChat official account: **MicrosoftTMC**
 
 Welcome to follow it to get more meeting info
 
-# Agenda
+# Meeting
 Our meeting is held every wednesday in Micorsoft Beijing building Tower 1
