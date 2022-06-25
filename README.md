@@ -8,4 +8,4 @@ Our WeChat official account: **MicrosoftTMC**
 Welcome to follow it to get more meeting info
 
 # Meeting
-Our meeting is held every wednesday in Micorsoft Beijing building Tower 1
+Our meeting is held every wednesday in Tower 1, Micorsoft Beijing building, No.5 Danling Street, Haidian District.
