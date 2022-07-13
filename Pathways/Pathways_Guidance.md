@@ -1,3 +1,7 @@
+本文件夹包含Toastmasters Pathways的学习指导内容。
+
+目前Toastmasters International已将教育体系升级为Pathways系统。 每一个注册入会的会员，会费都包括免费完成一个Pathway的费用。 当VPM (Vice President of Member俱乐部会员副主席)在官网将你的信息注册成功后， 你就可以登录官网选择一条Pathway。
+
 希望每一位会员朋友，可以根据个人喜好和自身想锻炼提高的能力，挑选一条Pathway进行学习。 
 
 
