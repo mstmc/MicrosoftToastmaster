@@ -8,6 +8,6 @@
 
 每一条Pathway都包含5个level，前两个level的内容均相同， 着重练习一般公众演讲技巧。 第3-5个level，不同的Pathway侧重点不同。 选择完一条Pathway后，请按照每个level的要求，完成相应演讲、会议角色或其他项目， 并在完成前后登录官网个人Pathway页面，进行自我评价。 5个level任务都完成后， 请VPE（Vice President of Education俱乐部教育副主席）， 在官网上提交申请，由总部审核后，颁发Pathway完成证书。
 
-我们为大家录制了一个小视频，指导你选择一条Pathway，以及如何完成Pathway中的任务。[点击链接下载观看](https://www.aliyundrive.com/s/xhkuWxKtzfG)
+**我们为大家录制了一个小视频，指导你选择一条Pathway，以及如何完成Pathway中的任务。**.[点击链接下载观看](https://www.aliyundrive.com/s/xhkuWxKtzfG)
 
 ![11 Pathways](https://user-images.githubusercontent.com/108131762/176839636-dc097138-9c3a-44d1-9a78-8ea0c046e158.png)
