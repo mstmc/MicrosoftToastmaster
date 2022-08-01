@@ -11,6 +11,10 @@
 
 # 如何制作Poster
 
+## 1) Online template
+https://www.canva.cn/en/
+
+## 2) PPT Designer
 - 1 下载模板 Poster.pptx
 - 2 编辑Title 和 日期
 - 3 可上传意向图片
