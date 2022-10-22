@@ -27,9 +27,9 @@
 
 ## 二、Prepared Speech Session
 
-- Julia 告诉了我们即兴演讲的另一种打开方式，即兴做演讲7min, 功力很足。
+- Naifei Pan 呈现了我们即兴演讲的另一种打开方式，即兴做演讲7min, 功力很足。
 
-- Tao 利用Habachi餐厅的成功经验, 贡献了一场精彩绝伦的演讲: How to make a wish.
+- Tao Lu 利用Habachi餐厅的成功经验, 贡献了一场精彩绝伦的演讲: How to make a wish.
   - Tao以一句名言开场: how important it was to know what you want so that the universe may be able to prepare it for you.
   - 辅以3个简单故事：When taking an elevator, press the button first；When in a restaurant, order the food first；When praying for a big lottery, buy one first. 
   - 得出主题：wish is important, it is the destination on your map, it is the goal of your career, it is who/what/where are you.
