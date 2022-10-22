@@ -7,52 +7,45 @@
 
 对于个人来说，我们成长了，也经历和见证了这些非凡的变化。
 
-- 十年前，如果给你一个手机，告诉你可以用它发短信，你会问，如果能打电话，为什么要发短信；现在在同样的情况下，你会问，如果能发信息，为什么打电话
+- 十年前，如果给你一个手机，告诉你可以用它发短信，你会问，如果能打电话，为什么要发短信；现在在同样的情况下，你会问，如果能发信息，为什么打电话。
 
-- 十年前，见面打招呼，是脱下帽子; 现在的年轻人，见面打招呼，都是要摘下耳机的。
+- 十年前，见面打招呼，是脱下帽子; 现在见面打招呼，是摘下耳机。
 
 - 十年前，把自己的私事写在日记里，生怕别人看到。现在，会在社交网络上发布每一个生活琐碎，害怕别人看不见。
 
 - 十年前，出门必带三宝:手机、钥匙和钱包。现在出门带个电话就足够了。钱包正在被移动支付取代，钥匙正在被智能门锁取代。
 
 
-## 一、即兴演讲问题：
+## 一、Table Topic Session：
 
-本周Table Session, 准备了3个维度: Country/Home/Personal, 和3种题材: graph/data/scenario 的问题, 每个问题都得到了非常精彩的演讲和思路扩展。
+本周Table Topic Session, 准备了3个维度: Country/Home/Personal, 和3种题材: graph/data/scenario 的问题, 每个问题都得到了非常精彩的演讲和思路扩展。
 
 ![image](https://user-images.githubusercontent.com/24701101/197339227-0217db4e-ab92-4dde-a3ec-64d06e50317f.png)
 
 详细问题列表可见: [Table Topic Session - A Remarkable Decade](https://github.com/mstmc/MicrosoftToastmaster/blob/master/Meeting/2022/2022.10.19_ARemarkableDecade/Table%20Topic%20Session.pptx)
 
 
-## 
+## 二、Prepared Speech Session
 
+- Julia 告诉了我们即兴演讲的另一种打开方式，即兴做演讲7min, 功力很足。
 
+- Tao 利用Habachi餐厅的成功经验, 贡献了一场精彩绝伦的演讲: How to make a wish.
+  - Tao以一句名言开场: how important it was to know what you want so that the universe may be able to prepare it for you.
+  - 辅以3个简单故事：When taking an elevator, press the button first；When in a restaurant, order the food first；When praying for a big lottery, buy one first. 
+  - 得出主题：wish is important, it is the destination on your map, it is the goal of your career, it is who/what/where are you.
+  - 在正文部分，Tao提到了5种实际可用的方式To make a good wish, 我们可以理解为5M原则。
+    - (1). Minimum Expectation. To picture how you will feel sad about the wish.
+    - (2). Maximum Expectation. To picture how you will be happy when the wish comes true.
+    - (3). Modification. To consult with your peers about your wish and to improve it.
+    - (4). Many details. To enrich your wish details as many as possible.
+    - (5). Meditate. To persuade yourself until no questions at your wish.
+  - 其中有几话特别启迪人：
+    - (1). Self-doubt is also a kind of wish.
+    - (2). The deeper the wish, the more likely it is to be realized.
+    - (3). Make your wish carefully and picture it meticulously.
 
+## 三、会议Record
+[A Remarkable Decade record](https://microsoftapc-my.sharepoint.com/:v:/g/personal/xinglinyu_microsoft_com/EVRBczfvi3FHo0NwcZ6u5dcBdCt56GNWngwrdvCHKVTA5Q?e=ADW7G9)
 
-## 二、会议总结：
-
-1.从Tao那里学到了一个新词**charisma**，比personal style更闪亮。
-
-每个人都是限量版，全球唯一发行。
-
-你羡慕别人的开放，别人也在羡慕你的温婉。
-
-你羡慕别人的机智，别人也在羡慕你的纯粹。
-
-在这里，你的魅力都能被我们看到。
-
-如果你自己没有发现，那么请看看我的眼睛，
-
-这是反射你魅力的心灵之镜。
-
-2.从Frank的分享中，看到了短板之光，换一种角度看问题，发现短板不短。
-也许在某一处，它是短板，但在另一个事情上就变成了长处。当别人否定我们的短板时， 不要先急着失落，用心去想短板的长处。
-
-红霞的分享，让人从情绪的泥沼中跳脱出来，关注问题本身。在做事情前，思考为什么做，打破惯性思维，不是上来就做，遇困难就烦。
-用Why-What-How的黄金圈，思考做事的目的，找到利他的抓手，做事的心会更坚定，也能带动更多人为之努力。
-
-Tao在即兴演讲中，分享一个难忘的生日礼物，画面感极强，是我们可以学习的地方。他描述了几年前女朋友趁他不在家的时候，开车带到他的公寓，
-带了一大束气球，数量多的都要把她自己从地上带上天空了，这个画面让人想起了《飞屋环游记》，那个被气球带着飞上天的房子。
-然后她还在玻璃上贴上了好吃的巧克力。这一切都让恰巧回家的Tao远远的看到了，他非常的感动。他说，你爱的人送给你他们觉得最好的礼物，这就是最好的礼物。
+到期时间: 11/19/2022
 
