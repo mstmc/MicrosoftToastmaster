@@ -5,11 +5,10 @@ Aaron Leung的TED演讲主题是『Facts tell, stories sell?』。他结合了16
 ![AaronPoster](https://user-images.githubusercontent.com/24701101/198203937-934ebaa5-bb1b-4044-8138-64cbffcbe19e.png)
 
 # 一、Prepared Speech Session
-Aaron给我们介绍了很多讲故事的技巧，包括但不仅限于：使用视觉，肢体语言，语音语调，表情等来呈现故事。
+Aaron给我们介绍了很多讲故事的技巧，包括但不仅限于：使用视觉、肢体语言、语音语调、表情、凤头豹尾等来呈现故事。
 
 # 二、Table Topic Session
 本环节Aaron邀请了多位志愿者，现场演练他所提到的讲故事技巧，即兴出题，即兴点评。相信每一位Guest都获益匪浅。
-
 
 # 三、Meeting record
 让我们一起来目睹即兴演讲世界冠军的风采吧，感受下Storytelling的魅力。
