@@ -14,7 +14,7 @@ Aaron给我们介绍了很多讲故事的技巧，包括但不仅限于：使用
 本环节Aaron邀请了多位志愿者，现场演练他所提到的讲故事技巧，即兴出题，即兴点评。相信每一位Guest都获益匪浅。
 
 # 三、Meeting record
-让我们一起来目睹即兴演讲世界冠军的风采吧，感受下Storytelling的魅力。
+让我们一起来目睹即兴演讲世界冠军的风采，感受下Storytelling的魅力吧。
 
 [Facts Tell and Stories Sell](https://microsoftapc-my.sharepoint.com/:v:/g/personal/xinglinyu_microsoft_com/EfIIzkr9OWhOmPNOSA8fd3ABdMB18bhg8YH1YMQWA3cQmg?e=BN55Za)
 
