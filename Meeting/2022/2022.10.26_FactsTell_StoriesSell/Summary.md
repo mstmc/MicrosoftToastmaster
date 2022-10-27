@@ -2,6 +2,9 @@
 
 本期邀请了“2019即兴演讲世界冠军” Aaron Leung来做TED Talk。
 Aaron Leung的TED演讲主题是『Facts tell, stories sell?』。他结合了16年的公众演讲经验告诉我们如何在演讲中有效运用事实和故事, 来让演讲更加丰富饱满。
+
+会议详情介绍见微信公众号`MicrosoftTMC`: [MS-TED | 即兴演讲世界冠军将在微软头马分享Storytelling的魅力](https://mp.weixin.qq.com/s?__biz=MzA4NzMwNzcyMA==&mid=2655377126&idx=1&sn=dfd32db65b2c1705cb77b8e7d7a771be&chksm=8b8a1241bcfd9b57e63f971dba126f86667948e53f830d15127e4996972d2c1b2c86a9817446&token=1888323131&lang=zh_CN#rd)
+
 ![AaronPoster](https://user-images.githubusercontent.com/24701101/198203937-934ebaa5-bb1b-4044-8138-64cbffcbe19e.png)
 
 # 一、Prepared Speech Session
