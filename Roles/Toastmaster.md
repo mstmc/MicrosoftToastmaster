@@ -3,6 +3,9 @@
 Any behavior or statement that is patently offensive or objectionable is forbidden, like unlawful, racist, sexist, homophobic, hateful and so on.
 
 
+Is unlawful, racist, sexist, homophobic, hateful, damaging, false, libelous, defamatory, malicious, vulgar, obscene or discriminatory, contains religious or ethnic bias, or is otherwise objectionable
+
+
 # Ref: 
 [leadership central/governing documents](https://www.toastmasters.org/leadership%20central/governing%20documents.aspx)
 
