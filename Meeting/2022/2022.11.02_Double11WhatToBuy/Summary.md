@@ -13,6 +13,9 @@ Meeting Invitation: [微软头马第720次会议 | Double 11 What to buy?](https
 
 [Table Topic Session - Double 11.pptx](https://github.com/mstmc/MicrosoftToastmaster/blob/master/Meeting/2022/2022.11.02_Double11WhatToBuy/Table%20Topic%20Session%20-%20Double%2011.pptx)
 
+# Prepared Speech Session
+
+SP1 Julia：
 
 # Meeting record
 
