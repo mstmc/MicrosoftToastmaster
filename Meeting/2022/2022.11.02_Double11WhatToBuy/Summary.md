@@ -15,7 +15,7 @@ Meeting Invitation: [微软头马第720次会议 | Double 11 What to buy?](https
 
 # Prepared Speech Session
 
-SP1 Julia：
+SP1 Julia：Julia延续了她的背稿演讲开场特色，用一个问题吸引大家的注意力，今天她让我们写出我们喜欢的一个明星的三个特点，再写出一个我们最爱的人的三个特点，看这两者间有没有重合的词？然后她就展开了要想获得幸福，到底是外在重要，还是思维模式重要的讨论和分析。精彩内容，欢迎收看会议回放......
 
 # Meeting record
 
