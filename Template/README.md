@@ -12,7 +12,10 @@
 # 如何制作Poster
 
 ## 1) Online template
-https://www.canva.cn/en/
+
+Canva: https://www.canva.cn/en/
+
+Postermywall: https://www.postermywall.com/index.php
 
 ## 2) PPT Designer
 - 1 下载模板 Poster.pptx
