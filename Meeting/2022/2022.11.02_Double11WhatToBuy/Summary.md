@@ -19,6 +19,6 @@ SP1 Julia：Julia延续了她的背稿演讲开场特色，用一个问题吸引
 
 # Meeting record
 
-[Toastmasters Meeting-20221102_190930-Meeting Recording.mp4](https://microsoftapc-my.sharepoint.com/:v:/g/personal/xianlongwang_microsoft_com/EVt-jBevDZJGnXMhcwMMkkYBRzmWicFixPUcRhQTtiXJ6w?e=OERw5t)
+[Toastmasters Meeting-20221102_190930-Meeting Recording.mp4](https://microsoftapc-my.sharepoint.com/:v:/g/personal/xinglinyu_microsoft_com/EXUb6cpwldZPhJAeXQVo7zcBC6l3UV-sPIU0ZWMPbMT_rw?e=Bo1Vyl)
 
 Expires: 12/03/2022
