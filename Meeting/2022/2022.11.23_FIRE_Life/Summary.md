@@ -15,3 +15,4 @@ Meeting Invitation: [微软头马第723次会议-北京苏州联合会议 | FIRE
 
 [Toastmasters Meeting-20221123](https://microsoftapc-my.sharepoint.com/:v:/g/personal/xianlongwang_microsoft_com/EVt-jBevDZJGnXMhcwMMkkYBRzmWicFixPUcRhQTtiXJ6w?e=OERw5t)
 
+Expires: 12/21/2022
